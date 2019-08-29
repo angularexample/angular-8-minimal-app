@@ -2,7 +2,7 @@
   "name": "angular-8-minimal",
   "description": "Angular 8 Minimal App, Bare minimum files and packages for an Angular App. Angular 8.",
   "author": "AngularExample https://github.com/angularexample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

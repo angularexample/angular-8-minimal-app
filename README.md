@@ -90,7 +90,7 @@ The browser will automatically reload if you change any of the source files.
 
 The following software libraries are used:
 ```text
-Angular 8.2.2
+Angular 8.2.4
 ```
 
 ## What Is Not Included
